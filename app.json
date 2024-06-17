@@ -1,12 +1,12 @@
-{
-    "name": "ZUSYCO-MD",
-    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
-    "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
-    "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
+60{
+    "name": "Brovhi-MD",
+    "description": "This is an Brovhi-MD whatsapp bot created by mr Hassan.",
+    "repository": "https://github.com/gulhassanali/ZUSYCO-MD",
+    "logo": "https://telegra.ph/file/627700978d2192d3b7966.jpg",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp ZUSYCO-MD Bot"
+        "WhatsApp Brovhi-MD Bot"
     ],
     "buildpacks": [
         {
